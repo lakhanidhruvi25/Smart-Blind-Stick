@@ -8,11 +8,11 @@
 #define RST 14
 #define DIO0 26
 
-const char* ssid = "Krishna";
-const char* password = "Kri20412";
+const char* ssid = "*****";
+const char* password = "*****";
 
-#define BOT_TOKEN "8737376101:AAEdBf9LfR1q-DGuZvE6JaI3QzJTJ5tenrg"
-#define CHAT_ID "6770284216"
+#define BOT_TOKEN "*********"
+#define CHAT_ID "*********"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOT_TOKEN, client);
